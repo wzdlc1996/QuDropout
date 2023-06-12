@@ -1,0 +1,1 @@
+159: 8.8%  # Clause number 159 with total trial 1000.0 and 88.0 simulated annealing successes.
